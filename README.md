@@ -11,5 +11,11 @@ Step 3: Wait for it to download (If you have ALREADY done step 2, make you you D
 Step 3.5: Do this command: sudo apt-get update && sudo apt-get install -y p7zip-full (wait for it to get done before doing step 4)
 
 Step 4: Do this command: 7z x PT_WebBuild_r11.7z
+
+Step 5: Final Command: python3 -m http.server 8080
+
+
 and it should work!
 if it doesn't, then I'm sorry.
+
+Now if you have done ALL of this, and want to use your existing codespace, it will work.
