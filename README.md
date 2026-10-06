@@ -1,4 +1,6 @@
 # PT-Latest-Web
+# (BEFORE USING THIS, MAKE SURE YOU DOWNLOADED THE ZIP FROM BURNEDPOPCORN'S REPOSTITORY!)
+
 A Web Port of the Pizza Tower 1.10 Update (Noise Update) to the Web Browser. 
 
 # How To Play (if you don't have a codespace):
@@ -16,4 +18,4 @@ When you open your port, you should see this:
 <img width="1365" height="767" alt="Screenshot 2026-10-06 1 20 35 PM" src="https://github.com/user-attachments/assets/6dec691e-114e-44d9-bf28-4da850e49077" />
 Click "betterrunner.html".
 
-Now you can play! (Let me know if you want a different Pizza Tower Web Port that works with school chromebook, like Sage 19+, Scoutdigo, Cheesed Up, and more! and I will do instructions for that.)
+Now you can play! (Let me know if you want a different Pizza Tower Web Port that works with school chromebook, like Sage 19+, Scoutdigo, Cheesed Up, and more! and I will do instructions for that!)
